@@ -19,3 +19,5 @@ console.log("the last borough is actually..." + borough[4]);
 
 
 console.log(borough)
+
+console.log ('blah blah')
