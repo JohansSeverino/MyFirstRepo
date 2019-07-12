@@ -74,6 +74,8 @@ console.log("Challenge #5:");
 // Add an empty string to the "roster" array (signifying an empty
 // spot)
 
+
+
 // Console.log the "roster" array
 
 // ==================================================================
