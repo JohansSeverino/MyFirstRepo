@@ -1,0 +1,70 @@
+head{
+    background-color: yellow;
+}
+body{
+    background-color: yellow;
+}
+div{
+    background: rgba(128,0,128 .5)
+}
+/* 
+div{
+    border: solid 3px lightblue;
+} */
+p{
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+}
+
+#college{
+    border: solid 5px lightblue;
+
+}
+
+#school{
+    border: solid 5px lightblue;
+    background: rgba(128,0,128 .5)
+}
+
+#married{
+    border: solid 5px lightblue;
+}
+
+#child{
+    border: solid 5px lightblue;
+}
+
+#us{
+    border: solid 5px lightblue;
+}
+
+/* images */
+
+
+#college > img{
+
+    height: 200px;
+    width: 300px;
+
+}
+
+#married > img{
+    height: 300px;
+    width: 300px;
+
+}
+
+#child > img{
+    height: 300px;
+    width: 300px;
+
+}
+
+#us > img{
+    height: 300px;
+    width: 300px;
+
+}

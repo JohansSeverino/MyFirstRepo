@@ -1,0 +1,19 @@
+span{
+    color:blue;
+    font-size: 2pc;
+    text-transform: uppercase;
+}
+
+div{
+    margin: auto;
+    text-align: left;
+    background: powderblue;
+    width: 50%;
+    height:100px;
+    border: solid 6px green;
+
+}
+
+a{
+    color: red;
+}
